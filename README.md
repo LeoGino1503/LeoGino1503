@@ -16,19 +16,19 @@ AI Full-stack Engineer passionate about building scalable AI systems, cloud infr
 ## 💻 Tech Stack
 
 ### Languages
-Python • JavaScript • TypeScript • SQL
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,)](https://skillicons.dev)
 
 ### Backend
-FastAPI • Django • Hono • Node.js
+[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,redis,grafana,postman,rabbitmq)](https://skillicons.dev)
 
 ### Frontend
-React • Vite • HTML • CSS
+[![My Skills](https://skillicons.dev/icons?i=css,html,javascript,react,django)](https://skillicons.dev)
 
-### AI & Data
-PyTorch • Scikit-learn • LangChain • RAG • LLMs • Time Series Forecasting
+### AI
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
 
 ### DevOps & Cloud
-Docker • Docker Compose • Kubernetes • AWS • Linux • Redis • PostgreSQL
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,raspberrypi,ubuntu)](https://skillicons.dev)
 
 ---
 
@@ -67,12 +67,6 @@ Real-time vehicle license plate recognition system with Dockerized deployment an
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
----
-
-## 🧰 Tools & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,react,django,fastapi,docker,kubernetes,aws,postgres,redis,linux,git)](https://skillicons.dev)
 
 ---
 
