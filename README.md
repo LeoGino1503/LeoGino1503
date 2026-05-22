@@ -1,19 +1,10 @@
 # Hi there 👋 I'm Võ Lý Hoàng Hoan
 
-AI Full-stack Engineer passionate about building scalable AI systems, cloud infrastructure, and modern web applications.
+AI Full-stack Engineer passionate about building scalable AI systems, cloud infrastructure, and modern web applications. I focus on Generative AI, AI Infrastructure, Cloud & DevOps, and end-to-end AI product development for real-world applications. My goal is to build scalable cloud-native AI systems and become highly proficient in full-stack AI engineering.
 
----
+Always learning, building, and exploring new technologies.
 
-## 🚀 About Me
-
-- 🤖 Working on Generative AI & AI Infrastructure
-- ☁️ Interested in Cloud, DevOps, and Distributed Systems
-- 🧠 Building end-to-end AI products and automation systems
-- 🛠 Focused on real-world AI applications for industries and services
-
----
-
-## 💻 Tech Stack
+## ⭐ Tech Stack
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,)](https://skillicons.dev)
@@ -32,59 +23,15 @@ AI Full-stack Engineer passionate about building scalable AI systems, cloud infr
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 UpCheck
-Lightweight uptime monitoring and security assessment platform with real-time monitoring, latency tracking, and simulated security scanning.
-
-**Tech:** Hono API • React • PostgreSQL • Redis • Docker
+## GitHub Stats
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=LeoGino1503&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🔹 Predictive Maintenance System
-AI system for predicting kiln furnace sensor values using time-series forecasting and industrial monitoring pipelines.
+## Connect With Me
 
-**Tech:** Python • LSTM • FastAPI • AWS • Docker
-
----
-
-### 🔹 AI Health Coach
-AI-powered health assistant integrating environmental and weather data for personalized recommendations.
-
-**Tech:** LLM • RAG • FastAPI • React
-
----
-
-### 🔹 License Plate Recognition
-Real-time vehicle license plate recognition system with Dockerized deployment and CI/CD integration.
-
-**Tech:** Python • FastAPI • Docker
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Portfolio: https://YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
-
----
-
-## 🎯 Current Goals
-
-- Become an AI Full-stack Engineer
-- Build scalable AI infrastructure systems
-- Master cloud-native AI deployment
-- Develop complete AI-powered products
-
----
-
-⭐ Always learning, building, and exploring new technologies.
+- LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/hoan-vo-484374219/)
+- Portfolio: [https://YOUR_PORTFOLIO](https://leogino.io.vn/home/guest)
+- Email: hoanghoan92nk@gmail.com
