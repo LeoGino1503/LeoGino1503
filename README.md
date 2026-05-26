@@ -32,6 +32,6 @@ Always learning, building, and exploring new technologies.
 
 ## Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/hoan-vo-484374219/)
-- Portfolio: [https://YOUR_PORTFOLIO](https://leogino.io.vn/home/guest)
+- LinkedIn: [https://linkedin.com/in/hoan-vo-484374219](https://www.linkedin.com/in/hoan-vo-484374219/)
+- Portfolio: [https://leogino.io.vn](https://leogino.io.vn/home/guest)
 - Email: hoanghoan92nk@gmail.com
